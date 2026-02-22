@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../env"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "llm-webapp"
+	}
+}

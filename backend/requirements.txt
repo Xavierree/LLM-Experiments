@@ -1,0 +1,32 @@
+mlx
+mlx-lm
+huggingface_hub
+torch
+transformers>=4.39.3
+numpy<2.0.0
+# accelerate
+# bitsandbytes
+peft
+datasets
+sentence-transformers<3.0.0
+faiss-cpu==1.7.4
+langchain
+llama-index
+# auto-gptq
+optimum>=1.16.0
+einops
+rapidfuzz
+symspellpy
+tiktoken
+protobuf
+python-dotenv
+fastapi
+uvicorn
+websockets
+faster-whisper
+google-api-python-client
+python-docx
+pypdf
+python-multipart
+chatterbox-tts
+sentencepiece
