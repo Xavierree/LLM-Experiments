@@ -25,7 +25,7 @@ os.environ["HF_HOME"] = MODELS_DIR
 # Set HF_TOKEN if available (to avoid authentication warnings)
 HF_TOKEN = os.getenv("HF_TOKEN")
 if HF_TOKEN:
-    os.environ["HF_TOKEN"] = "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"
+    os.environ["HF_TOKEN"] = HF_TOKEN
     print("🔐 HuggingFace token loaded from environment")
 
 import gc
